@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386426277524",
+    "project_id": "hamconnect-674fe",
+    "storage_bucket": "hamconnect-674fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386426277524:android:040e4c953db505f1766e81",
+        "android_client_info": {
+          "package_name": "com.hamconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386426277524-3ac9qt3t3k4sr7f3ooo216cun003i6rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbsIzdkKlOx0FNPfoUWeiYvz6LoU1pEXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386426277524-3ac9qt3t3k4sr7f3ooo216cun003i6rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
